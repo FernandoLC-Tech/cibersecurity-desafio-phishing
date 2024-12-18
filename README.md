@@ -16,7 +16,7 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
-### Resutados
+### Resposta do desafio
 
 ![desafio](https://github.com/user-attachments/assets/0636d918-be57-45df-89a1-5ff94e056d8d)
 
